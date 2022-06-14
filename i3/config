@@ -34,7 +34,7 @@ bindsym $mod+t exec $myTerm
 ################
 # KEY BINDINGS #
 ################
-bindsym $mod+Shift+o exec $myTerm -e ~/.config/i3/config
+bindsym $mod+Ctrl+o exec $myTerm -e vim ~/.config/i3/config
 #System Monitoring
 bindsym $mod+Shift+End exec $myTerm -e htop 
 #LogOut
