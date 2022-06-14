@@ -34,7 +34,6 @@ I use this setup on a Thinkpad x200 with a core2 CPU <br>
   <li> keep in mind that i3 colors can be defined globally from .Xresources aswell. </li>
   For that to work do the following:
   <li> Setup a colorscheme in .Xresources. You can use the terminal.sexy website fro ease </li>
-  <li> then add somethign like the following lines to your i3 config </li>
 
   
 
