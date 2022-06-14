@@ -10,7 +10,7 @@ I use this setup on a Thinkpad x200 with a core2 CPU <br>
 <ul>
 <li>i3wm / i3-gaps</li>
 <li>picom</li>
-  <li> st terminal (or replace in config before use) </li>
+  <li> st terminal (or change in config before use) </li>
 <li>feh or nitrogen</li>
 <li>bumblebee-status</li>
 <li>nm-applet</li>
