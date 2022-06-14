@@ -1,4 +1,7 @@
 
+<h1> Descreption </h1>
+This is a minimal (sorta) terminal-centric configuration of i3 <br>
+I use this setup on a Thinkpad x200 with a core2 CPU <br>
 <h1>Prerequisites </h1>
 
 [i3-gaps](https://github.com/Airblader/i3/) or normal i3 if you dont care for gaps. i3-gaps is also in Arch repos but for Debian it must be built afaik. <br>
@@ -12,6 +15,8 @@
 <li>nm-applet</li>
 <li>i3-lock</li>
 <li>xorg</li>
+  <li> ranger</li>
+  <li>w3m</li>
   <li>lxappearance</li>
   <h2> Optional </h2>
 <li>  adawita theme</li>
